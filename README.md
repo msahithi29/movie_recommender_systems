@@ -36,6 +36,13 @@ BaselineKNN.py </br>
 BaselineSVD++.py </br>
 ProposedHybridSVDContent.py </br>
 ProposedLightFM.py </br>
+</br>
+<b> Same files in jupyter notebook which contains graphs </b>
+BaselineKNN.py </br>
+BaselineSVD++.py </br>
+ProposedHybridSVDContent.py </br>
+ProposedLightFM.py </br>
+
 
 <b> After installing all the required libraries and placing the files in the input folder, run the files using below statements: </b>
 
@@ -43,6 +50,7 @@ python BaselineKNN.py </br>
 python BaselineSVD++.py </br>
 python ProposedHybridSVDContent.py </br>
 python ProposedLightFM.py </br>
+
 
 <b> References: </b>
 
