@@ -28,7 +28,7 @@ Check if the input folder exists. </br>
 If not present, create a folder 'input' and copy the input files to this location. </br>
 Download the dataset from https://grouplens.org/datasets/movielens/latest/, https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset </br>
 </br>
-input folder files: </br>
+<b> input folder files: </b> </br>
 IMDb movies.csv </br>
 links.csv </br>
 movies.csv </br>
