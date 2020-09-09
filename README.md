@@ -1,6 +1,9 @@
 # movie_recommender_systems
 
 <b> What Should I Watch Next: A Movie Recommendation Study </b>
+Historically, when searching for the best option, one would typically refer to an expert’s advice for guidance. Who is the best doctor for a specific disease? Which restaurant serves the kind of food that I like the most? All of these kinds of problems require the input and advice of someone with knowledge and expertise. 
+These kinds of questions and problems fall under a field of data mining called Recommendation Systems and it is the aim of this paper to develop such a system. Specifically, this paper aims to address the issue of recommending movies that are most likely to be enjoyable to watch for a user.
+Though the existing traditional collaborative and content based approaches in recommender systems are effective, these methods have certain drawbacks like cold start, scalability and sparsity in collaborative approach and diversity problem in content based. In this project, we evaluated two hybrid models with two baseline approaches – SVD Content based model using surprise and scikit-learn libraries and LightFM model using Lyst's lightFM library which resolves the issue with cold start, diversity problems and provide relevant high quality recommendations.
 
 <b> Requirements: </b> </br>
 Python 3.8 </br>
